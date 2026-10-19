@@ -1,4 +1,0 @@
-name,backbone,encoder_M,nltem_M,decoder_M,total_M,GMACs,FPS_fp32_bs1
-profile_base,base,86.09,15.96,172.19,274.24,286.3,6.7
-profile_small,small,21.81,4.0,43.07,68.89,73.3,20.4
-profile_tiny,tiny,5.6,1.01,10.78,17.39,19.2,38.7
